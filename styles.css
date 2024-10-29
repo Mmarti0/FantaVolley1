@@ -94,3 +94,24 @@ th {
 #clearAll:hover {
     background-color: #e0a800;
 }
+
+#globalPenaltyDisplay {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#changeGlobalPenalty {
+    background-color: #17a2b8;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+#changeGlobalPenalty:hover {
+    background-color: #138496;
+}
